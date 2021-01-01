@@ -1,0 +1,11 @@
+name: pyautogui_demo
+dependencies:
+- python=3.7.9
+- pip
+- pip:
+  - keyboard
+  - pywin32
+  - pyautogui
+  
+# Things that fail dependencies:
+#- pip:
