@@ -6,6 +6,9 @@ dependencies:
   - keyboard
   - pywin32
   - pyautogui
+  - opencv-python
   
 # Things that fail dependencies:
 #- pip:
+
+# opencv needed for the locateOnScreen...
