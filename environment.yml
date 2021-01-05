@@ -6,6 +6,7 @@ dependencies:
   - keyboard
   - pywin32
   - pyautogui
+  - numpy==1.19.3
   - opencv-python
   
 # Things that fail dependencies:
